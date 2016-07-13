@@ -1,0 +1,14 @@
+layout_spectrum: 0.9919441
+typography_spectrum: 0.1390978
+color:
+  saturation: 0.7700354
+  lightness: 0.1695812
+  brandStrength: 1
+  brandColors:
+    - '#0A0A0A'
+    - '#DC2305'
+    - '#CDCDD5'
+    - '#416B83'
+    - '#AF853B'
+  rhythmicContrast: 0.03674091
+name: '#GoldMember'
