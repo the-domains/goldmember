@@ -22,8 +22,8 @@ color:
     - '#CDCDD5'
     - '#416B83'
     - '#AF853B'
-  brandStrength: 1
-  lightness: 0.1695812
+  brandStrength: 0
+  lightness: 0.5
   saturation: 0.7700354
   rhythmicContrast: 0.03674091
 purpose: []
